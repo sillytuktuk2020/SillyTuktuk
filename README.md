@@ -22,6 +22,9 @@
 * `cd SillyTuktuk `
 * ` chmod +x SillytukTuk.py `
 
+*** ### > NOTE :- ` Don your personal Fb '
+**** ` For Education purpose only `
+
 
 #### > Run : 
  *.      `python2 SillytukTuk.py `
