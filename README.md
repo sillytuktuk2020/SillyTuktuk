@@ -30,7 +30,8 @@
  * `python2`
 * `pip2 install requests`
 * `pip2 install mechanize `
-
+* ### > `For Proxy use VPNHUB `
+* `https://play.google.com/store/apps/details?id=com.appatomic.vpnhub`
 <br>
 <p align="center">
 <img src="https://github.com/sillytuktuk2020/SillyTuktuk/blob/master/IMG_20200804_183454.jpg"/>
