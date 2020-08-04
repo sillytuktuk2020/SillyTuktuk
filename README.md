@@ -17,7 +17,7 @@
 ## Installation : Commands 
 
 * `apt update`
-* `apt install git curl -y`
+* `apt install git -y`
 * `git clone https://github.com/sillytuktuk2020/SillyTuktuk.git `
 * `cd SillyTuktuk `
 * ` chmod +x SillytukTuk.py `
