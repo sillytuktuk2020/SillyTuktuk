@@ -22,7 +22,7 @@
 * `cd SillyTuktuk `
 * ` chmod +x SillytukTuk.py `
 
-*** ### > NOTE :- ` Don your personal Fb '
+*** ### > NOTE :- ` Don't your personal Fb '
 **** ` For Education purpose only `
 
 
