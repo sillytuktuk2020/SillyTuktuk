@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 #coding=utf-8
 
-
+### > AKSHAY DHAWAN
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
@@ -87,7 +87,7 @@ print  """
 
 """
 
-jalan("\033[1;97m•◈•───────•◈ HINDUSTAN ZINDABAD •◈•───────•◈•")  
+jalan("\033[1;97m•◈•────•◈🚩 JAI SHREE RAM 🚩 •◈•─────•◈•")  
 
 
 jalan("\033[1;96m•◈•   _____ _____  ______ ______ _____ _____ ")
